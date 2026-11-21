@@ -2,8 +2,7 @@ cask "soundbind" do
   version "0.0.1"
   sha256 "4248b39dcdd6622e30aaa383e7b89b4b22beaae435a8e01082a50ced7c4b28e4"
 
-  url "https://github.com/tusharonly/Soundbind/releases/download/v#{version}/Soundbind-#{version}.dmg",
-      verified: "github.com/tusharonly/Soundbind/"
+  url "https://github.com/tusharonly/Soundbind/releases/download/v#{version}/Soundbind-#{version}.dmg"
   name "Soundbind"
   desc "Menu bar soundboard that plays audio files with global keyboard shortcuts"
   homepage "https://soundbind.vercel.app/"
