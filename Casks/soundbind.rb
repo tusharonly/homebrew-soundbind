@@ -1,6 +1,6 @@
 cask "soundbind" do
   version "0.0.1"
-  sha256 "876df740c9498c640cdc4b7b76a492baddee0c89fe086916e9ac48ac218ad094"
+  sha256 "503be32aa73804ad634d889ddc3acc08e127e54d89907e20e0b56908da2223ef"
 
   url "https://github.com/tusharonly/Soundbind/releases/download/v#{version}/Soundbind-#{version}.zip"
   name "Soundbind"
